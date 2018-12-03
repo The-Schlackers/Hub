@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Isac Scener/Game1/Scenes/IsacUp4MainMenu.unity
+  isLoaded: 1
+  isActive: 1
