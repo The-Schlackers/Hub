@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main_Scene.unity
+    guid: f858378ad3562634baef5e47bb1cae85
+  - enabled: 1
+    path: Assets/Scenes/Loading_Scene.unity
+    guid: 3d0cefc043ce93e4f8f290e9e97fe25a
+  - enabled: 1
+    path: Assets/Scenes/Isac Scener/Isac_Scene.unity
+    guid: 79a160f05f450904485cc9fd5e6fae88
+  - enabled: 1
+    path: Assets/Scenes/Johan Scener/Johan_Scene.unity
+    guid: 39767ccc4a9c46649bba631a93a89acb
+  - enabled: 1
+    path: Assets/Scenes/Gustav Scener/GusUp4_Menu_Assets/Assets/Scenes/MenuScene.unity
+    guid: 8406f2c6597ec444a97e0e132cc24eeb
+  - enabled: 1
+    path: Assets/Scenes/Rikard Scener/Menu/Assets/Scenes/RIKKKAARRDD.unity
+    guid: 3d0819bff41efba4d8b83e4573d6374a
+  - enabled: 1
+    path: Assets/Scenes/Timothy Scener/Timothy_Main_Scene.unity
+    guid: 4b1b30deb1ce6a6459e44de957cd660b
+  - enabled: 1
+    path: Assets/Scenes/Rikard Scener/Vadkanspelvara/Assets/Scenes/RickardFinal!.unity
+    guid: bbd9bb95f047af84da03ae6e7f3ab1fa
+  - enabled: 1
+    path: Assets/Scenes/Rikard Scener/Vadkanspelvara/Assets/Scenes/RickardGameScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Rikard Scener/Vadkanspelvara/Assets/Scenes/RickardGameScene2.unity
+    guid: 6bba3add363f62141b1ec4fdc10c427e
+  - enabled: 1
+    path: Assets/Scenes/Rikard Scener/Vadkanspelvara/Assets/Scenes/RickardGameScene3.unity
+    guid: 9f3f9340fda5ad449ac9f587de08231a
+  - enabled: 1
+    path: Assets/Scenes/Rikard Scener/Vadkanspelvara/Assets/Scenes/RickardLoadinFinal.unity
+    guid: de5eb7955455ec947baf77b98ba45168
+  - enabled: 1
+    path: Assets/Scenes/Rikard Scener/Vadkanspelvara/Assets/Scenes/RickardLoading.unity
+    guid: b59df36800f169840a25499b93f4aa74
+  - enabled: 1
+    path: Assets/Scenes/Rikard Scener/Vadkanspelvara/Assets/Scenes/RickardLoading2.unity
+    guid: 83408128d89e76a43aca56e4236c8a6e
+  - enabled: 1
+    path: Assets/Scenes/Rikard Scener/Vadkanspelvara/Assets/Scenes/RickardStartGame.unity
+    guid: 9597f60d475f68945b9b527b04b8a0d9
+  - enabled: 1
+    path: Assets/Scenes/Rikard Scener/Vadkanspelvara/Assets/Scenes/RickardWhatIsGame.unity
+    guid: a643a34af25aedd43bebc9cb9e78f04f
+  - enabled: 1
+    path: Assets/Scenes/Gustav Scener/GusUp4_Menu_Assets/Assets/Scenes/EndScene.unity
+    guid: d5e762655504427409d180b6275ba61c
+  - enabled: 1
+    path: Assets/Scenes/Gustav Scener/GusUp4_Menu_Assets/Assets/Scenes/GameScene.unity
+    guid: c23fc9eec9bb68646a8a5f61ad6b790c
+  - enabled: 1
+    path: Assets/Scenes/Gustav Scener/GusUp4_Menu_Assets/Assets/Scenes/LoadingScene.unity
+    guid: 225599e66992aa34ea9bca5d8d2eb0a1
+  - enabled: 1
+    path: Assets/Scenes/Gustav Scener/Gusup4/Scenes/GusUp4_Scene_0.unity
+    guid: 02d938e4d55349641a049587fc51b466
+  - enabled: 1
+    path: Assets/Scenes/Gustav Scener/Gusup4/Scenes/GusUp4_Scene_1.unity
+    guid: fe79dd3d24b25664b85158eb02d41704
+  - enabled: 1
+    path: Assets/Scenes/Gustav Scener/Gusup4/Scenes/GusUp4_Scene_2.unity
+    guid: a026b1dac8b963447b1a4c513c5e4a43
+  - enabled: 1
+    path: Assets/Scenes/Johan Scener/Johan_Helpfullscenegame1.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Isac Scener/Game1/Scenes/IsacUp4MainMenu.unity
+    guid: 0139bb4a932d858459eb07bf29677ac9
+  - enabled: 1
+    path: Assets/Scenes/Isac Scener/Game1/Scenes/IsacUp4GameScene.unity
+    guid: 1069d3affabde674b9490716f6193a0a
+  m_configObjects: {}
