@@ -120,11 +120,9 @@ public class IsacUp4MenuScript : MonoBehaviour
         Settings.SetActive(false);
         PlayerSelect.SetActive(false);
     }
-    [SerializeField]
-    private GameObject Music;
+
     public void QuitGame()
     {
-        Destroy(Music, 2);
         SceneManager.LoadScene(2);
     }
 

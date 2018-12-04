@@ -2,7 +2,6 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
 public class IsacMenuScript : MonoBehaviour {
 
@@ -25,6 +24,6 @@ public class IsacMenuScript : MonoBehaviour {
 
     public void Game1()
     {
-        SceneManager.LoadScene("IsacUp4MainMenu");
+        GameUtils.LoadScene(22);
     }
 }
